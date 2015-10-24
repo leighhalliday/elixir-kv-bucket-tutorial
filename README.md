@@ -1,4 +1,6 @@
 KV
 ==
 
-** TODO: Add description **
+Key/Value bucket using Agent, GenServer, and GenEvent.
+
+Tutorial from the Elixir lang website.
